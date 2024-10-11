@@ -1,0 +1,5 @@
+D:/4Task/cmake-build-debug/CMakeFiles/4Task.dir
+D:/4Task/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/4Task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/4Task/cmake-build-debug/CMakeFiles/4Task_autogen_timestamp_deps.dir
+D:/4Task/cmake-build-debug/CMakeFiles/4Task_autogen.dir

@@ -1,0 +1,27 @@
+2024-05-31 23:44:09 [INFO] Graph loaded from file: D:/4Task/data.txt
+2024-05-31 23:44:13 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:17 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:18 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:18 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:18 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:19 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:19 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:19 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:19 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:19 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:19 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:19 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:19 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:20 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:20 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:20 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:20 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:20 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:20 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:20 [INFO] Graph renumbered starting from vertex: 1
+2024-05-31 23:44:31 [INFO] Graph loaded from file: D:/4Task/data.txt
+2024-05-31 23:44:44 [INFO] Graph renumbered starting from vertex: 4
+2024-06-01 00:18:14 [INFO] Graph loaded from file: D:/4Task/data.txt
+2024-06-01 00:18:16 [INFO] Graph renumbered starting from vertex: 1
+2024-06-01 00:18:24 [INFO] Graph renumbered starting from vertex: 0
+2024-06-01 00:18:27 [INFO] Graph renumbered starting from vertex: 4
